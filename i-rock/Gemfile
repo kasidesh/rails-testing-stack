@@ -26,7 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'puma'
 
 gem 'simple_form'
-
+gem 'redcarpet'
 gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
